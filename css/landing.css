@@ -19,7 +19,7 @@
 /* Card style here */
 .card {
     box-shadow: none;
-    min-height: 400px;
+    min-height: 25rem;
     max-width: 30ch;
 }
 
