@@ -1,0 +1,28 @@
+@import url(common.css);
+@import url(landing.css);
+
+
+/*! Options style here  */
+
+.qus__sec{
+    max-width: 50ch;
+}
+
+/*All options  */
+.qus-otpions{
+    background-color: var(--color-off-white);
+}
+
+/* User chossen */
+.option-user{
+    background-color: var(--color-trans-red);
+}
+
+/* Right one */
+.option-right{
+    background-color: var(--level-color);
+}
+
+.btn__float{
+    z-index: 99;
+}
