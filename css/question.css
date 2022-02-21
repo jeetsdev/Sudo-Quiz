@@ -1,0 +1,14 @@
+@import url(common.css);
+@import url(landing.css);
+@import url(result.css);
+
+
+/*! Question options style here  */
+
+.qus-otpions{
+    transition: .3s;
+}
+
+.qus-otpions:hover{
+    background-color: var(--level-color);
+}
