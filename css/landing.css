@@ -26,3 +26,8 @@
 .card .card__sec-upper {
     background-color: var(--level-bg);
 }
+
+.card .card__upper-overlay a {
+    display: block;
+    padding: 0.4rem;
+}
